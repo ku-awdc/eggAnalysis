@@ -1,0 +1,17 @@
+Data simulation:
+
+Pre-treatment only
+
+For lognormal and gamma:
+
+S datasets each (50)
+
+N of 150 (in set 50, 150, 500)
+
+For mean and within-individual k:
+Table 1:  https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011071
+Hookworm:  1/24 g
+
+For between-individual k use the intercept/slope relationship with mean (see screenshot) and also:
+Table 1:  https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011160
+
